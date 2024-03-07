@@ -3,7 +3,7 @@
 - Callum (callumh-c)
 - Finley (fwolff03)
 - Nate (NathanSedmak)
-- Wadeqy (wadekah)
+- Wade (wadekah)
 ## Summary: 
 ## Background Infomation:
 ## Problem statement, question(s) and/or objective(s):
