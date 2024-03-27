@@ -43,9 +43,9 @@ Use matplotlib to do so
 ## Tools/packages you’ll use (with links):
 Numpy (https://numpy.org/)
 
-Pandas ()
+Pandas (https://pandas.pydata.org/)
 
-Matplotlib ()
+Matplotlib (https://matplotlib.org/)
 
 Folium (https://pypi.org/project/folium/)
 
