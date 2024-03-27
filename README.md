@@ -22,7 +22,10 @@ loss of mass/year
 displacement/year
 
 Objectives:
-Cleanly
+Cleanly organize the csv file into numpy arrays
+Use numpy arrays to create graphs describing the data through different lenses
+Use matplotlib to do so
+
 
 ## Datasets you will use (with links, if available):
 
