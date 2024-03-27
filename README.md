@@ -41,7 +41,7 @@ Use matplotlib to do so
 
 
 ## Tools/packages you’ll use (with links):
-Numpy ()
+Numpy (https://numpy.org/)
 
 Pandas ()
 
