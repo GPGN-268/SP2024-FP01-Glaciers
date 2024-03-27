@@ -40,9 +40,9 @@ Use matplotlib to do so
 ## Datasets you will use (with links, if available):
 
 These datasets from the NSIDC. The data set ID is NSIDC-0625 and NSIDC-0788.
-
-https://nsidc.org/data/nsidc-0625/versions/1
-https://nsidc.org/data/nsidc-0788/versions/1
+- https://nsidc.org/data/nsidc-0625/versions/1
+- https://nsidc.org/data/nsidc-0788/versions/1
+  
 ## Tools/packages you’ll use (with links):
 Numpy (https://numpy.org/)
 
