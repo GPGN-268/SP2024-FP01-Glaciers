@@ -11,17 +11,19 @@
 
 
 ## Problem statement, question(s) and/or objective(s):
-
+We are going to model the change in Greenlandian Glaciers over time. To do this, we will use the included libraries to develop an animation of glacier coverage over time.
 
 ## Datasets you will use (with links, if available):
 
 
 ## Tools/packages you’ll use (with links):
-Numpy (
+Numpy ()
 
-Pandas (
+Pandas ()
 
-Matplotlib (
+Matplotlib ()
+
+Folium (https://pypi.org/project/folium/)
 
 ## Planned methodology/approach:
 
