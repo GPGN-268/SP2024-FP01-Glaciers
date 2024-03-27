@@ -14,7 +14,7 @@
 
 We are going to model the change in Greenlandian Glaciers over time. To do this, we will use the included libraries to develop an animation of glacier coverage over time.
 
-# Questions:
+#### Questions:
 
 Has the rate of decreasing glacier mass changed over the past 20,40,100 years?
 
@@ -22,13 +22,13 @@ How does a glaciers position realtive to the equator or north/south pole effect 
 
 How much does recent human caused climate change and global warming effect the rate of glacier melt?
 
-# Anaylze the specifics of the greenland glacier:
+#### Anaylze the specifics of the greenland glacier:
 
 loss of mass/year
 
 displacement/year
 
-# Objectives:
+#### Objectives:
 
 Cleanly organize the csv file into numpy arrays
 
