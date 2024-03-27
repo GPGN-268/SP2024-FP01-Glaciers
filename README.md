@@ -40,7 +40,7 @@ Use Folium to create a heatmap of glacier presence in Greenland over time
 
 ## Datasets you will use (with links, if available):
 
-These datasets from the NSIDC. The data set ID is NSIDC-0625 and NSIDC-0788.
+These datasets from the NSIDC. The data set IDs are NSIDC-0625, NSIDC-0788, and RDWES1B
 - https://nsidc.org/data/nsidc-0625/versions/1
 - https://nsidc.org/data/nsidc-0788/versions/1
 - https://nsidc.org/data/rdwes1b/versions/1
