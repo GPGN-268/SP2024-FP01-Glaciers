@@ -53,6 +53,7 @@ Matplotlib (https://matplotlib.org/)
 Folium (https://pypi.org/project/folium/)
 
 ## Planned methodology/approach:
+We will use Folium to display coverage of the Greenland Ice Sheet at each of the times we will analyze. We will animate the coverage of the ice sheet to show change over time. We will also compare these images to quantitatively describe the change in the ice sheet over time.
 
 
 ## Expected outcomes:
