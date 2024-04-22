@@ -37,7 +37,7 @@ Convert any necessary columns to Numpy np.ndarrays if vector math is needed
 
 Use Matplotlib to create simple plots of our data
 
-Use Folium to create a heatmap of glacier presence in Greenland over time
+Use Cartopy to create a heatmap of glacier presence in Greenland over time
 
 ## Datasets you will use (with links, if available):
 
@@ -61,7 +61,7 @@ Cartopy (https://pypi.org/project/Cartopy/)
 We will use Matplotlib to create simple plots of our data and then use these plots to help in the creation of a heatmap over time. We will use Folium to display coverage of the Greenland Ice Sheet at each of the times we will analyze. We will animate the coverage of the ice sheet to show change over time. We will also compare these images to quantitatively describe the change in the ice sheet over time. 
 
 ## Expected outcomes:
-
+Based on our prior knowledge, we expect to see a decrease in glacier thickness and coverage around the edge of Greenland, with an increase in thickness towards the middle of the island. Additionally, we expect higher elevations to support thicker glaciers, as both colder temperatures and overall mass gain in the interior of the island where higher elevations are more often found will contribute to increased glacier mass. 
 
 ## Any other relevant information, images/tables, references, etc.:
 
