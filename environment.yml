@@ -2,7 +2,7 @@ name: Group01-Glaciers
 channels:
  - conda-forge
 dependencies:
- - python=3.10*
+ - python=3.11.4*
  - pip
  - cartopy >= 0.20.0
  - datashader
