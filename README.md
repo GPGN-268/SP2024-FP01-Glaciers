@@ -41,19 +41,16 @@ Use Cartopy to create a heatmap of glacier presence in Greenland over time
 
 ## Datasets you will use (with links, if available):
 
-These datasets from the NSIDC. The data set IDs are NSIDC-0625, NSIDC-0788, and RDWES1B
+We will be using this dataset from the NSIDC. This dataset contains radar measurements of ice thickness across Greenland from 1993 to 2019. These measurements were taken across several plane flights each year. 
 - https://nsidc.org/data/nsidc-0625/versions/1
-- https://nsidc.org/data/nsidc-0788/versions/1
-- https://nsidc.org/data/rdwes1b/versions/1
-  
+
+
 ## Tools/packages you’ll use (with links):
 Numpy (https://numpy.org/)
 
 Pandas (https://pandas.pydata.org/)
 
 Matplotlib (https://matplotlib.org/)
-
-Xarray (https://pypi.org/project/xarray/)
 
 Cartopy (https://pypi.org/project/Cartopy/)
 
