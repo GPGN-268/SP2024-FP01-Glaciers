@@ -16,11 +16,12 @@ We are going to model the change in Greenlandian Glaciers over time. To do this,
 
 #### Questions:
 
-How does a glacier's position realtive to the equator or north/south pole effect its melting rate?
+How has the distribution and thickness of glaciers in Greenland changed in the recent past (~30 years)?
 
-How much does recent human caused climate change and global warming effect the rate of glacier melt?
+How does a glacier's elevation affect its thickness?
 
-How has the distribution of glaciers in Greenland changed in the recent past (~40 years)?
+What additional insights can we gain from past glacier data?
+
 
 #### Anaylze the specifics of the greenland glacier:
 
