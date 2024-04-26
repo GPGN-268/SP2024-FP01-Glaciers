@@ -46,10 +46,10 @@ We will be using this dataset from the NSIDC. This dataset contains radar measur
 
 
 ## Tools/packages you’ll use (with links):
-[Numpy](https://numpy.org/)
-[Pandas](https://pandas.pydata.org/)
-[Matplotlib](https://matplotlib.org/)
-[Cartopy](https://pypi.org/project/Cartopy/)
+- [Numpy](https://numpy.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Cartopy](https://pypi.org/project/Cartopy/)
 
 ## Planned methodology/approach:
 We will use Matplotlib to create simple plots of our data and then use these plots to help in the creation of a heatmap over time. We will use Folium to display coverage of the Greenland Ice Sheet at each of the times we will analyze. We will animate the coverage of the ice sheet to show change over time. We will also compare these images to quantitatively describe the change in the ice sheet over time. 
