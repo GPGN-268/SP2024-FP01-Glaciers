@@ -16,43 +16,40 @@ We are going to model the change in Greenlandian Glaciers over time. To do this,
 
 #### Questions:
 
-How has the distribution and thickness of glaciers in Greenland changed in the recent past (~30 years)?
+- How has the distribution and thickness of glaciers in Greenland changed in the recent past (~30 years)?
 
-How does a glacier's elevation affect its thickness?
+- How does a glacier's elevation affect its thickness?
 
-What additional insights can we gain from past glacier data?
-
+- What additional insights can we gain from past glacier data?
 
 #### Anaylze the specifics of the greenland glacier:
 
-loss of mass/year
-
-displacement/year
+- Loss of mass/year
+- Displacement/year
 
 #### Objectives:
 
-Cleanly organize the different datasets into individual dataframes
+- Cleanly organize the different datasets into individual dataframes
 
-Convert any necessary columns to Numpy np.ndarrays if vector math is needed
+- Convert any necessary columns to Numpy np.ndarrays if vector math is needed
 
-Use Matplotlib to create simple plots of our data
+- Use Matplotlib to create simple plots of our data
 
-Use Cartopy to create a heatmap of glacier presence in Greenland over time
+- Use Cartopy to create a scatter plot of the locations of data collected.
+
+- Use Cartopy to create a heatmap of glacier presence in Greenland over time
 
 ## Datasets you will use (with links, if available):
 
 We will be using this dataset from the NSIDC. This dataset contains radar measurements of ice thickness across Greenland from 1993 to 2019. These measurements were taken across several plane flights each year. 
-- https://nsidc.org/data/nsidc-0625/versions/1
+[NSIDC Greenland Ice Thickness Dataset](https://nsidc.org/data/nsidc-0625/versions/1)
 
 
 ## Tools/packages you’ll use (with links):
-Numpy (https://numpy.org/)
-
-Pandas (https://pandas.pydata.org/)
-
-Matplotlib (https://matplotlib.org/)
-
-Cartopy (https://pypi.org/project/Cartopy/)
+[Numpy](https://numpy.org/)
+[Pandas](https://pandas.pydata.org/)
+[Matplotlib](https://matplotlib.org/)
+[Cartopy](https://pypi.org/project/Cartopy/)
 
 ## Planned methodology/approach:
 We will use Matplotlib to create simple plots of our data and then use these plots to help in the creation of a heatmap over time. We will use Folium to display coverage of the Greenland Ice Sheet at each of the times we will analyze. We will animate the coverage of the ice sheet to show change over time. We will also compare these images to quantitatively describe the change in the ice sheet over time. 
