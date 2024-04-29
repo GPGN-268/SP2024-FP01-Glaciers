@@ -5,7 +5,7 @@
 - Nate (NathanSedmak)
 - Wade (wadekah)
 ## Summary: 
-
+We used ice sheet thickness data collected by plane from the NSIDC to analyze changes in Greenland's glaciers from 1993 - 2019. Based on the available data, we found that there has been a reduction in coastal ice thickness, while interior ice has remained relatively unchanged. Overall, the spatial observation of our data was limited by the changing flight paths and by extension location of the available data. The data also showed a clear maximum relationship between ice thickness and elevation, where ice sheets tended not to exceed a thickness of roughly 3000 meters minus the elevation. Additionally, our data showed no correlation between latitude and ice thickness. This is likely due to the varying topography and coastlines of the survey area, as well as the variance in data lcoation. The limited data location and consitency hinders the potential utilization of this data. Continued collection and improvement of the quality of collected data are key to the continuance of studying Greenland's cryosphere.
 
 ## Background Infomation:
 
