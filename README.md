@@ -55,7 +55,7 @@ We will be using this dataset from the NSIDC. This dataset contains radar measur
 We will use Matplotlib to create simple plots of our data and then use these plots to help in the creation of a heatmap over time. We will use Folium to display coverage of the Greenland Ice Sheet at each of the times we will analyze. We will animate the coverage of the ice sheet to show change over time. We will also compare these images to quantitatively describe the change in the ice sheet over time. 
 
 ## Results:
-
+[alt-text](https://github.com/GPGN-268/SP2024-FP01-Glaciers/blob/main/figures/measurement_locations.png?raw=true)
 
 ## Contribution Statement:
 
