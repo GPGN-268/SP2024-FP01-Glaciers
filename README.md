@@ -60,7 +60,10 @@ We will use Matplotlib to create simple plots of our data and then use these plo
 ## Expected outcomes:
 Based on our prior knowledge, we expect to see a decrease in glacier thickness and coverage around the edge of Greenland, with an increase in thickness towards the middle of the island. Additionally, we expect higher elevations to support thicker glaciers, as both colder temperatures and overall mass gain in the interior of the island where higher elevations are more often found will contribute to increased glacier mass. 
 
-## Any other relevant information, images/tables, references, etc.:
+## Results:
+
+
+## Contribution Statement:
 
 
 ## References:
