@@ -55,10 +55,10 @@ We will be using this dataset from the NSIDC. This dataset contains radar measur
 We will use Matplotlib to create simple plots of our data and then use these plots to help in the creation of a heatmap over time. We will use Folium to display coverage of the Greenland Ice Sheet at each of the times we will analyze. We will animate the coverage of the ice sheet to show change over time. We will also compare these images to quantitatively describe the change in the ice sheet over time. 
 
 ## Results:
-[alt-text](https://github.com/GPGN-268/SP2024-FP01-Glaciers/blob/main/figures/measurement_locations.png?raw=true)
+We found that mass loss occurred on the coast of Greenland between 1993 ad 2019, while inland glaciers appeared to remain mostly unchanged. We found that there is a ratio whereby ice thickness decreases by one meter for every meter increase in bottom elevation. Our investigation found a maximum bottom elevation of 3000 m, though this finding is likely influenced by the chosen survey areas. There appears to be no consistent relationship between latitude and ice thickness. 
 
 ## Contribution Statement:
-
+Finn created figures 1 and 2 (locations of data collected and average ice thickness), Nate created figure 3 (ice thickness map), Callum created figure 4 (bottom elevation vs ice thickness), and Wade created figure 5 (latitude vs ice thickness). Callum, Nate, and Finn worked together to create the final version of the README.md file and much of the initial draft of this file. Wade created the initial list of research questions which we submitted for the first project checkpoint. The environment.yml file was created by Finn, the overall structure of the repo as well as the pngs of the figures were created by Nate. Callum, Nate, and Finn worked to find and upload the data for this project. 
 
 ## References:
 
