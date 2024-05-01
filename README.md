@@ -8,8 +8,7 @@
 We used ice sheet thickness data collected by plane from the NSIDC to analyze changes in Greenland's glaciers from 1993 - 2019. Based on the available data, we found that there has been a reduction in coastal ice thickness, while interior ice has remained relatively unchanged. Overall, the spatial observation of our data was limited by the changing flight paths and by extension location of the available data. The data also showed a clear maximum relationship between ice thickness and elevation, where ice sheets tended not to exceed a thickness of roughly 3000 meters minus the elevation. Additionally, our data showed no correlation between latitude and ice thickness. This is likely due to the varying topography and coastlines of the survey area, as well as the variance in data lcoation. The limited data location and consitency hinders the potential utilization of this data. Continued collection and improvement of the quality of collected data are key to the continuance of studying Greenland's cryosphere.
 
 ## Background Infomation:
-
-
+Greenland and Antarctica's ice sheets hold over 99 percent of Earth's freshwater. ⁤⁤The melting of these ice sheets could cause the global sea level to rise nearly 70 meters which would be catastrophic. ⁤⁤[1] How Greenland's ice sheets respond to a rise in temperature is currently a significant issue in the climate debate. ⁤⁤[2] By looking at how the Greenland Ice sheet thickness has changed over the past few decades, we hope to further our understanding of the impacts of climate change on ice sheet dynamics in the future. ⁤
 ## Problem statement, question(s) and/or objective(s):
 
 We are going to model the change in Greenlandian Glaciers over time. To do this, we will use the included libraries to develop an animation of glacier coverage over time.
@@ -42,7 +41,7 @@ We are going to model the change in Greenlandian Glaciers over time. To do this,
 ## Datasets you will use (with links, if available):
 
 We will be using this dataset from the NSIDC. This dataset contains radar measurements of ice thickness across Greenland from 1993 to 2019. These measurements were taken across several plane flights each year. 
-[NSIDC Greenland Ice Thickness Dataset](https://nsidc.org/data/nsidc-0625/versions/1)
+[NSIDC Greenland Ice Thickness Dataset](https://nsidc.org/data/nsidc-0625/versions/1) [3]
 
 
 ## Tools/packages you’ll use (with links):
@@ -61,5 +60,8 @@ We found that mass loss occurred on the coast of Greenland between 1993 ad 2019,
 Finn created figures 1 and 2 (locations of data collected and average ice thickness), Nate created figure 3 (ice thickness map), Callum created figure 4 (bottom elevation vs ice thickness), and Wade created figure 5 (latitude vs ice thickness). Callum, Nate, and Finn worked together to create the final version of the README.md file and much of the initial draft of this file. Wade created the initial list of research questions which we submitted for the first project checkpoint. The environment.yml file was created by Finn, the overall structure of the repo as well as the pngs of the figures were created by Nate. Callum, Nate, and Finn worked to find and upload the data for this project. 
 
 ## References:
+[1]S. Funder, K. K. Kjeldsen, K. H. Kjær, and C. Ó Cofaigh, “Chapter 50 - The Greenland Ice Sheet During the Past 300,000 Years: A Review,” ScienceDirect, Jan. 01, 2011. Available: https://www.sciencedirect.com/science/article/pii/B9780444534477000507. [Accessed: May 01, 2024]
 
+[2]“Ice Sheets Today,” National Snow and Ice Data Center. Available: https://nsidc.org/ice-sheets-today
 
+[3]“Greenland Radar Ice Sheet Thickness Measurements, Version 1,” National Snow and Ice Data Center. Available: https://nsidc.org/data/nsidc-0625/versions/1. [Accessed: May 01, 2024]
